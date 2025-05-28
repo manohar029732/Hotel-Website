@@ -41,7 +41,7 @@ body{
 /* showcase */
 
 #showcase{
-    background-image: url(/img/showcase.jpg);
+    background-image: url(./img/showcase.jpg);
     background-size: cover;
     height: 90vh;
     background-position: center;
@@ -163,7 +163,7 @@ footer{
 }
 
 #guest-container{
-    background-image: url(/img/test-bg.jpg);
+    background-image: url(./img/test-bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
